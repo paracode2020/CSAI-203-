@@ -67,7 +67,7 @@ We are using GitHub Projects to manage our Scrum workflow. Our board includes th
 - **Done:** Fully completed tasks.
 
 ### Project Board
-You can view our project board [here](https://github.com/your-username/PDF-Comparison-App/projects/1).
+You can view our project board (https://github.com/paracode2020/CSAI-203-.git).
 
 ### Sprint Planning Process
 Our project is divided into four sprints, each focusing on a specific feature set:
@@ -88,9 +88,9 @@ Each task is assigned to team members based on their roles and expertise. Tasks 
 - **Development Team:** [List of team members] - Responsible for developing features and meeting sprint goals.
 
 ## Team Members
-- **[Your Name]** - Scrum Master ([GitHub Username](https://github.com/your-username))
-- **[Teammate’s Name]** - Product Owner ([GitHub Username](https://github.com/teammate-username))
-- **[Other Teammate’s Name]** - Developer ([GitHub Username](https://github.com/other-teammate-username))
+- **[Your Name]** - Scrum Master
+- **[Teammate’s Name]** - Product Owner 
+- **[Other Teammate’s Name]** - Developer 
 
 ## Features and Functional Requirements
 
